@@ -2,10 +2,11 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-      /*  *__*
+      /*
         *__*
         *__*
-*/
+        *__*
+    */
        int n = 3;
         for (int row = 1; row < n; row++){
             System.out.print("*");
