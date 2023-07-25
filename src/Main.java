@@ -2,11 +2,10 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-       /*
+      /*  *__*
         *__*
         *__*
-        *__*
-
+*/
        int n = 3;
         for (int row = 1; row < n; row++){
             System.out.print("*");
@@ -16,7 +15,7 @@ public class Main {
 
             }
             System.out.println("*");
-        }*/
+        }
 
         //n-1 space *
         //n-2 space *
